@@ -1,0 +1,22 @@
+{
+  "name": "lalapack",
+  "version": "1.0.0",
+  "description": "under how-to-npm this is a testing package called lalapack",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "no"
+  },
+  "keywords": [
+    "lala",
+    "pack"
+  ],
+  "author": "xuemengge",
+  "license": "MIT",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
+}
